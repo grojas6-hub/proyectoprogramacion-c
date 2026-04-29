@@ -3,7 +3,7 @@
 
 int main() {
     printf("Proyecto iniciado\n");
-    HOLA QUE TAL
+    // prueba josue
     return 0;
 
         
